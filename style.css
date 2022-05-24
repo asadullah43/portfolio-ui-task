@@ -202,6 +202,8 @@ header a:hover {
   margin: 10px;
 }
 .footer {
+  padding-top: 80px;
+  padding-bottom: 40px;
   height: 182px;
   width: 1152px;
   margin: 0 auto;
